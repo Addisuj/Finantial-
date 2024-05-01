@@ -1,0 +1,4 @@
+[server]
+maxUploadSize = 300
+
+runOnSave=true
